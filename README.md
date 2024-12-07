@@ -28,7 +28,7 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 ## 📦 Projekty
 - [🔗 Mój GitHub](https://github.com/GoralTomaszGorski)
 - [🏥 Aplikacja gabinetu psychoterapeutycznego](https://psychoterapia-krasnik.pl)
-- [📱 Wersja demonstracyjna aplikacji](https://demo.psychoterapia-krasnik.pl)
+- [📱 Wersja demonstracyjna aplikacji](http://demo.psychoterapia-krasnik.pl)
 
 ---
 
