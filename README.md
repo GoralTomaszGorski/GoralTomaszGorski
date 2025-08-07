@@ -51,7 +51,6 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0.
 Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board) - Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
 Identyfikator poświadczenia CTFL4-2025-23109-SJSI
-
 Selenium WebDriver dla średnio zaawansowanych. Budowa frameworku testowego - testerzy.pltesterzy.pl
 Identyfikator poświadczenia No. 232/2025/OS009/ENIdentyfikator poświadczenia No. 232/2025/OS009/EN
 ---
