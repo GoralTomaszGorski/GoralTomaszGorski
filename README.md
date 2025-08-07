@@ -13,33 +13,35 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 
 ---
 
-## 💻 Umiejętności
-- **Języki i technologie:**  
-  - **Java** ☕, **Selenium** 🧪, **Postman** 📬, **Junit** 🧾  
-  - **Bazy danych:** PostgreSQL 🗃️, MongoDB 🍃, MySQL 🍥, MSSQL  
-  - **Web development:** HTML5 🌐, CSS3 🎨, JavaScript ⚡  
-  - **Frameworki:** Spring 🌱, Hibernate 🛠️, Thymeleaf 🍃
-- **Narzędzia i platformy:**  
-  - **GIT** 🔧, **YouTrack** 🗂️, **Linux** 🐧, **IntelliJ IDEA** 💡, **VisualStudio**  
-  - **SolidEdge**, **SolidWorks**, **Matlab**
-  
+##  Umiejętności techniczne  
+- **Test Automation**: Selenium WebDriver, JUnit, RESTAssured, Postman (API testing), CI/CD (Jenkins, GitHub Actions)  
+- **Programowanie/Backend**: Java, Spring Boot, Hibernate  
+- **Frontend/Web**: HTML5, CSS3, JavaScript, Thymeleaf  
+- **Bazy danych**: PostgreSQL, MongoDB, MySQL, MSSQL  
+- **Narzędzia/Platformy**: Git, YouTrack, Linux, IntelliJ IDEA, Visual Studio 
 ---
 
-## 📦 Projekty
+## Projekty
 - [🔗 Mój GitHub](https://github.com/GoralTomaszGorski)
 - [🏥 Aplikacja gabinetu psychoterapeutycznego](https://psychoterapia-krasnik.pl)
 - [📱 Wersja demonstracyjna aplikacji](http://demo.psychoterapia-krasnik.pl)
 
 ---
 
-## 🏆 Doświadczenie zawodowe
-- **Programista testów automatycznych** - Posnet (2024)  
-- **Tester manualny** - Posnet (2024)  
-- **Dowódca, Oficer Sztabu** - Wojsko Polskie
+##  Doświadczenie zawodowe  
+**Programista testów automatycznych**, Posnet (2024)  
+- Budowa i utrzymanie frameworków do testów automatycznych (UI + API)  
+- Tworzenie i wykonywanie testów regresyjnych z wykorzystaniem Selenium i Postman  
+- Integracja testów z procesem CI/CD  
+- Praca w zwinnych metodykach, organizacja zadań w YouTrack  
+
+**Tester manualny**, Posnet (2024)  
+- Testowanie funkcjonalne i regresyjne, raportowanie defektów  
+- Dokumentacja przypadków testowych, współpraca z zespołem deweloperskim  
 
 ---
 
-## 🎓 Edukacja
+## Edukacja
 - **Polsko-Japońska Akademia Technik Komputerowych**  
   Podyplomowe: **Bazy danych i ich aplikacje** (2021)  
 - **Wojskowa Akademia Techniczna w Warszawie**  
@@ -47,12 +49,16 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 
 ---
 
-## 📘 Licencje i certyfikaty
-ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0.
-Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board) - Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board)
+## Licencje i certyfikaty
+
+- **ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0.** - Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board).
+
 Identyfikator poświadczenia CTFL4-2025-23109-SJSI
-Selenium WebDriver dla średnio zaawansowanych. Budowa frameworku testowego - testerzy.pltesterzy.pl
+
+- **Selenium WebDriver dla średnio zaawansowanych. Budowa frameworku testowego** - testerzy.pl. 
+
 Identyfikator poświadczenia No. 232/2025/OS009/ENIdentyfikator poświadczenia No. 232/2025/OS009/EN
+
 ---
 
 ## 📬 Kontakt
