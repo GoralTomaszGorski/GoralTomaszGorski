@@ -43,7 +43,8 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 
 ## Edukacja
 - **Polsko-Japońska Akademia Technik Komputerowych**  
-  Podyplomowe: **Bazy danych i ich aplikacje** (2021)  
+  Podyplomowe: **Bazy danych i ich aplikacje** (2021)
+  
 - **Wojskowa Akademia Techniczna w Warszawie**  
   Magister inżynier: **Mechatronika** (2012)
 
@@ -52,12 +53,10 @@ Z powodzeniem przeszedłem od kariery w wojsku do branży IT, gdzie rozwijam swo
 ## Licencje i certyfikaty
 
 - **ISTQB® Certyfikowany Tester - Poziom Podstawowy, wersja 4.0.** - Stowarzyszenie Jakości Systemów Informatycznych (Polish Testing Board).
-
-Identyfikator poświadczenia CTFL4-2025-23109-SJSI
+  Identyfikator poświadczenia CTFL4-2025-23109-SJSI
 
 - **Selenium WebDriver dla średnio zaawansowanych. Budowa frameworku testowego** - testerzy.pl. 
-
-Identyfikator poświadczenia No. 232/2025/OS009/ENIdentyfikator poświadczenia No. 232/2025/OS009/EN
+  Identyfikator poświadczenia No. 232/2025/OS009/ENIdentyfikator poświadczenia No. 232/2025/OS009/EN
 
 ---
 
